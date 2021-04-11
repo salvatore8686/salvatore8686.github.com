@@ -1,0 +1,8 @@
+Origin: Salvatore8686
+Label: Salvatore8686
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: a Cydia repo by Salvatore8686 MLS
