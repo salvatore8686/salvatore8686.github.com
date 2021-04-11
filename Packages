@@ -14,16 +14,13 @@ Author: Salvatore8686 <salvatoredebari8@gmail.com>
 Depiction: A Test tweak
 
 
-Package: dontgetonmyzeiger
+Package: 0xcc.woodfairy.dontgetonmyzeiger
 Name: DontGetOnMyZeiger
 Architecture: iphoneos-arm
-Description: 0xcc.woodfairy.dontgetonmyzeiger_1.0_iphoneos-arm !
+Description: You get me on the Zeiger!
 Maintainer: woodfairy
 Author: woodfairy
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Version: 1.0
 Installed-Size: 200
-MD5sum: c6459f1d1f039a0e7776371117af74ec
-Filename: /debs/xenon-client_1.0.2_amd64.deb
-Depiction: 
